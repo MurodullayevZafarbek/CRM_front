@@ -1,6 +1,6 @@
 let config = {
-    url: "https://crm.educationcrm.uz"
-    // url: "http://localhost:3000"
+    url: "http://localhost:3000"
+    // url: "https://crm.educationcrm.uz"
 }
 
 export default config
